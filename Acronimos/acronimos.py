@@ -1,3 +1,8 @@
+#La definición oficial es:
+
+#cadena.split(separador, [maximoNumeroDeSeparaciones])
+
+
 # #crear acronimos 
 
 # usuario = str (input("Entra una frase : "))
